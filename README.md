@@ -8,11 +8,14 @@
 [![GitHub Stars](https://img.shields.io/github/stars/dhalmiaditi?logo=github&style=for-the-badge&color=A855F7&labelColor=0D1117)](https://github.com/dhalmiaditi?tab=stars)
 [![Profile Views](https://komarev.com/ghpvc/?username=dhalmiaditi&style=for-the-badge&color=A855F7&labelColor=0D1117)](https://github.com/dhalmiaditi)
 
+
+
 </div>
 
 ---
 
 ## 🚀 About Me
+<img src="dhalmia-diti-unmute-academy-founder.png" alt="Dhalmia Diti, Founder of Unmute Academy, Student Developer at SKCET" width="200" align="right" />
 
 - 🔐 I'm currently working on **Cybersecurity projects & security labs**
 - 🛡️ I'm passionate about **Ethical Hacking, Network Security & Digital Forensics**
