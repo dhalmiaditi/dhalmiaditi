@@ -10,12 +10,27 @@
 
 
 
+
 </div>
 
 ---
 
 ## 🚀 About Me
 <img src="dhalmia-diti-unmute-academy-founder.png" alt="Dhalmia Diti, Founder of Unmute Academy, Student Developer at SKCET" width="200" align="right" />
+     <a
+     id="cy-effective-orcid-url"
+     class="underline"
+     href="https://orcid.org/0009-0007-0836-0667"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+            src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+               https://orcid.org/0009-0007-0836-0667
+    </a>
+
 
 - 🔐 I'm currently working on **Cybersecurity projects & security labs**
 - 🛡️ I'm passionate about **Ethical Hacking, Network Security & Digital Forensics**
@@ -24,7 +39,6 @@
 - 💬 Ask me about **Cybersecurity, Linux, Networking, Python & Ethical Hacking**
 - 📫 How to reach me: **dhalmiaditi@gmail.com**
 - ⚡ Fun fact: **I love participating in hackathons and building innovative solutions!**
-
 ---
 
 ## 🛠️ Tech Stack
